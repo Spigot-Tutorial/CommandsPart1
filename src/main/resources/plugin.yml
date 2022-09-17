@@ -1,0 +1,9 @@
+name: CommandsPart1
+version: '${project.version}'
+main: me.shalckercraft.commandspart1.Plugin
+api-version: 1.16
+authors: [ ShalckerCraft ]
+commands:
+  die:
+    description: An easy way to kill yourself
+    usage: /<command>
